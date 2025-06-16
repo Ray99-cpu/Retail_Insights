@@ -52,10 +52,14 @@
 ### Recommendations
 
 ### Project Adaption
-#### The issues encountered were due to a change in computer and at times the naming of variable names of which was later rectified. The matter was concerned with not being able to push up to Git Hub because of this reason, this was identified by experienced data analysts.
+#### The issues encountered were due to a change in computer and at times the naming of variable names of which was later rectified. The matter was concerned with not being able to push up to Git Hub because of this reason, this was identified by experienced data analysts. The code to rectify this is here: 
+- git add .
+- git commit -m "Resolve conflicts"
+-  git push --force-with-lease
+#### This resolved the conflicts off the main branch, so all inputs were back on the main branch again.
 
 ### Project Reflections
-#### On reflection I would use post it notes to highlight each stage and the charts to be used once the data types had been indentified along with the respective variable names. Although, the types of charts had been chosen through previous study sessions, it is important to maintain variable names when generating code and chart visualisations. To solve this I will produce a knowledge base for errors and note the vaaribale names for each section. This is important so any other data analyst can make changes when neccessary.
+#### On reflection I would use post it notes to highlight each stage and the charts to be used once the data types had been indentified along with the respective variable names. Although, the types of charts had been chosen through previous study sessions, it is important to maintain variable names when generating code and chart visualisations. To solve this I will produce a knowledge base for errors and note the varible names for each section. This is important so any other data analyst can make changes when neccessary.
 
 ###  Conclusions 
 #### The project has highlighted the aspects that should be taken into account before starting the analysis. The planning is important and I would spend more time before I start to improve upon what has been produced this time. Insights into the retail data have been found and it has been noted above that the data is not comprehensive to provide the reader with more insight.
